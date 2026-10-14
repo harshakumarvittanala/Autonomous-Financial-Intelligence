@@ -1,0 +1,6 @@
+{
+  "name": "Finding the Next Signal — Autonomous Financial Research Investigator",
+  "description": "Autonomous financial research agent uncovering non-obvious, evidence-backed insights across NIFTY 50 companies with triangulation, contradiction detection, and falsification conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
